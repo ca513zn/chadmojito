@@ -18,6 +18,15 @@ function App() {
     "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-9/118256905_1167303183664146_1098454177622237541_o.jpg?_nc_cat=103&_nc_sid=a26aad&_nc_eui2=AeGeVMaPWzqp1OCZAQ8ZRY-HwIsBAHPxGhjAiwEAc_EaGFcAAmr5evkUYU3ujmyt6Kq4tc_MrynCXNWcj3qVqCrD&_nc_ohc=_SiXWw94oI4AX9a6ug0&_nc_ht=scontent.fmid3-1.fna&oh=28d212f954933d9126de1e16f6a51c8f&oe=5F6D6A16",
     "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-9/117946727_1167303126997485_5758596998330625044_o.jpg?_nc_cat=107&_nc_sid=a26aad&_nc_eui2=AeG_55GgaCRjuxPMKmfeMNqygWO4UVZ5zSCBY7hRVnnNIL0V0cDbp2eEomjkYHaaO1CwAIE2jdwTt08pfPQLAaka&_nc_ohc=09dqcuInGkAAX8IdDBO&_nc_ht=scontent.fmid3-1.fna&oh=b5ff605d48dfb3af1e3a4c376ee9c4be&oe=5F6D107C",
     "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-9/118146141_1167302983664166_1497037482418507292_o.jpg?_nc_cat=101&_nc_sid=a26aad&_nc_eui2=AeFG9MWpKIy0URJEVW7lvXJOGE_xVNlMgE4YT_FU2UyATlaf_PO76zfccnoYaUSVV1_v40pFQJHVbTZ3kN-q5nYj&_nc_ohc=h_SlN55pExEAX_B6NiJ&_nc_ht=scontent.fmid3-1.fna&oh=59deb675abffbd70f5ecf7363ec21877&oe=5F6E686E",
+    "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-9/118246455_1164755503918914_2310128763265931340_o.jpg?_nc_cat=110&_nc_sid=a26aad&_nc_eui2=AeFA2BzsxGPkJXIDiwQm84FoO68l2PU-wy07ryXY9T7DLUVzUoqsVTbzPYkOSKLqUFQLgmm7NwFehZLO0bHtj9s5&_nc_ohc=ox0c5JZ1edgAX_yq9lF&_nc_ht=scontent.fmid3-1.fna&oh=f2203c8d9d20d5b3770912d02103cedc&oe=5F6C0D4A",
+    "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-9/117766560_1164755453918919_3292754810574930484_o.jpg?_nc_cat=103&_nc_sid=a26aad&_nc_eui2=AeEVv1Wgl0zOHji6Z27wzhYDEQECUtM51R8RAQJS0znVHxdO5eVmyr4pp5vPTnExX7nkh3kZovaQKcN3dj6bh5jk&_nc_ohc=eZG_Bx6yEukAX-_qAvK&_nc_ht=scontent.fmid3-1.fna&oh=c62c8e6b713b2220b051ea678649022a&oe=5F6C8DDD",
+    "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-9/117707929_1159969734397491_8701987719068208695_o.jpg?_nc_cat=102&_nc_sid=a26aad&_nc_eui2=AeGTBfQ8_trmtcI0qFKnUCfsOIo6kS2CxlM4ijqRLYLGUyXtIg_5BgfF4sAGf457FEz29127u2K4YhK7qBuWKB5e&_nc_ohc=vFmUJxhGrp0AX81kRnk&_nc_ht=scontent.fmid3-1.fna&oh=3add0dee2bdbc1126cde6dc0a3ec5284&oe=5F6DC425",
+    "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-9/117357697_1159969684397496_6072237883981439699_o.jpg?_nc_cat=103&_nc_sid=a26aad&_nc_eui2=AeHm6HLMAWVlYvR-YDMFOHZtnIku3l7-xI2ciS7eXv7Ejb895kGzLXwRU40DmZbJOhAiaNEG2AQslI7ZHNbQcZ4J&_nc_ohc=gRpX3plIm-UAX8YRnnh&_nc_ht=scontent.fmid3-1.fna&oh=43213879d27853cc8125a289f327ca2c&oe=5F6EA340",
+    "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-9/117641052_1159969641064167_1658123722914774806_o.jpg?_nc_cat=101&_nc_sid=a26aad&_nc_eui2=AeE_nyu_gGignrztzCPUVST1tTbBLwLM98a1NsEvAsz3xlcLjaDFz5WPNT0brDA6OxG5XkprHaAS3y2xWG8jlc8v&_nc_ohc=R5L0BkZ09Y0AX9kcLad&_nc_ht=scontent.fmid3-1.fna&oh=0376078606a3fcccb0fbbc29ce002df1&oe=5F6C0644",
+    "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-9/117715839_1159969514397513_4525179149353686674_o.jpg?_nc_cat=111&_nc_sid=a26aad&_nc_eui2=AeGnrhjb3dmjPUNJN19C4EeZaihsWQUxgktqKGxZBTGCS24Wbyr_3RXeAL5lmIE9YM4FTJmuEJLK0U-Yqt2bKI3y&_nc_ohc=lFGj7naTX0kAX-TEl6B&_nc_ht=scontent.fmid3-1.fna&oh=77bcd010731463172b9ef74a137e3837&oe=5F6EF973",
+    "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-9/117527716_1159969451064186_3431025914861596369_o.jpg?_nc_cat=108&_nc_sid=a26aad&_nc_eui2=AeFvd3fZofQH4U21-dW0gzAbIt7vR4txBYEi3u9Hi3EFgT1GrBbOm6oZFJgAJ491QzrbTksPZxZ-TDYWgS1pcVLL&_nc_ohc=1JRab8U1dpAAX8XRVDE&_nc_ht=scontent.fmid3-1.fna&oh=bcc10dc6561b930f25f72f0c2798411d&oe=5F6DEC84",
+    "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-9/117933311_1159969411064190_1338568067237607672_o.jpg?_nc_cat=104&_nc_sid=a26aad&_nc_eui2=AeEKKCWLUU--0mrDW5jO75XEQsama9xq9c5CxqZr3Gr1zjygspBYwwoMMoLpOO5EayZ3Yw2UdSRp5Q37bCYajgSO&_nc_ohc=iixYXvzeiNgAX_AC0pl&_nc_ht=scontent.fmid3-1.fna&oh=37775389979ce1a540127e157db47859&oe=5F6C7602",
+    "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-9/117652700_1159969361064195_2937106167390481412_o.jpg?_nc_cat=102&_nc_sid=a26aad&_nc_eui2=AeF0eiLafVPy8BMnNibr6viZoW9PxE6ww66hb0_ETrDDrg7D4CDh_u2STic_rHKzwX4OXAtzQHdYJFt_tDiJ0oQc&_nc_ohc=yFdhzByeZjwAX89A3Us&_nc_ht=scontent.fmid3-1.fna&oh=4579099d4d1d16e35242393f267f3889&oe=5F6E63DC",
   ];
   return (
     <div className="App">
@@ -53,8 +62,24 @@ function App() {
             padding: "16px",
           }}
         >
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              fontSize: "12px",
+              padding: "8px",
+              width: "100%",
+            }}
+          >
+            All images were created by:
+          </div>
+          <a className="App-link-2" href="https://www.facebook.com/ChdMjt/">
+            Chad Mojito's Globular Meme Sobornost & Senseless Drivel Cult
+            Supercluster
+          </a>
+          <br />
           <a className="App-link" href="https://www.carlosznava.com">
-            Made by Carlos Z.
+            Website made by Carlos Z.
           </a>
         </div>
       </header>
