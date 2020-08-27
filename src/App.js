@@ -52,7 +52,7 @@ function App() {
           ))}
         </div>
         <p>
-          Hey chad! How are you?
+          Hey Chad! How are you?
           <br />
           Just making your art spin.
         </p>
