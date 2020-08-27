@@ -43,7 +43,7 @@ function App() {
           />
           </div>
         <p>Hey chad! How are you? Just making your art spin.</p>
-        <a className="App-link" href="www.carlosznava.com">
+        <a className="App-link" href="https://www.carlosznava.com">
           Made by Carlos Z.
         </a>
       </header>
