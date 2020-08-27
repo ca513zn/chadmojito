@@ -37,7 +37,6 @@ function App() {
             display: "flex",
             flexWrap: "wrap",
             justifyContent: "center",
-            width: "100%",
           }}
         >
           {images.map((image, i) => (
