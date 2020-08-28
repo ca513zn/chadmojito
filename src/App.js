@@ -49,11 +49,11 @@ function App() {
             alt="logo"
           />
           <div class="container">
-            <div class="glitch" data-text="CHADSPINZ">
-              CHADSPINZ
+            <div class="glitch" data-text="CHADSPINZ.COM">
+              CHADSPINZ.COM
             </div>
-            <div class="glow">CHADSPINZ</div>
-            <p class="subtitle">Engineer﹒Gamer﹒Shenaniganizer</p>
+            <div class="glow">CHADSPINZ.COM</div>
+            <p class="subtitle">Art is on point﹒Rats﹒More Rats</p>
           </div>
         </div>
         <div
@@ -62,7 +62,7 @@ function App() {
             display: "flex",
             flexWrap: "wrap",
             justifyContent: "center",
-            marginTop: "250px",
+            marginTop: "150px",
           }}
         >
           {images.map((image, i) => (
