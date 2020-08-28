@@ -53,7 +53,7 @@ function App() {
               CHADSPINZ.COM
             </div>
             <div className="glow">CHADSPINZ.COM</div>
-            <p className="subtitle">Art is on point﹒Rats﹒More Rats</p>
+            <p className="subtitle">Art is on point﹒Rats﹒Bottom Text</p>
           </div>
         </div>
         <div
