@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -33,10 +32,37 @@ function App() {
       <header className="App-header">
         <div
           style={{
+            marginTop: "32px",
+          }}
+        >
+          <img
+            style={{
+              borderRadius: "100%",
+              height: "180px",
+              width: "180px",
+              zIndex: 999
+            }}
+            src={
+              "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-9/118322638_1170044516723346_592708548913492311_o.jpg?_nc_cat=103&_nc_sid=a26aad&_nc_eui2=AeFsfPV8B1SqLpQMz62v2rIzoIkoORv9bu-giSg5G_1u7zNpmcpauaaO6Pza1UQD3Ox-vkfOrOqTpfYjG8Olo4QS&_nc_ohc=clqqJEEyZHMAX-TC0lu&_nc_ht=scontent.fmid3-1.fna&oh=2c2b78f0d794a14125e4352bd7a9de6d&oe=5F6DDAD1"
+            }
+            className="App-logo"
+            alt="logo"
+          />
+          <div class="container">
+            <div class="glitch" data-text="CHADSPINZ">
+              CHADSPINZ
+            </div>
+            <div class="glow">CHADSPINZ</div>
+            <p class="subtitle">Engineer﹒Gamer﹒Shenaniganizer</p>
+          </div>
+        </div>
+        <div
+          style={{
             padding: "16px",
             display: "flex",
             flexWrap: "wrap",
             justifyContent: "center",
+            marginTop: "250px",
           }}
         >
           {images.map((image, i) => (
@@ -72,7 +98,7 @@ function App() {
           >
             All images were created by:
           </div>
-          <a className="App-link-2" href="https://www.facebook.com/ChdMjt/">
+          <a className="App-link-2" href="https://about.me/NDM/">
             Chad Mojito's Globular Meme Sobornost & Senseless Drivel Cult
             Supercluster
           </a>
