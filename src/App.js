@@ -48,12 +48,12 @@ function App() {
             className="App-logo"
             alt="logo"
           />
-          <div class="container">
-            <div class="glitch" data-text="CHADSPINZ.COM">
+          <div className="container">
+            <div className="glitch" data-text="CHADSPINZ.COM">
               CHADSPINZ.COM
             </div>
-            <div class="glow">CHADSPINZ.COM</div>
-            <p class="subtitle">Art is on point﹒Rats﹒More Rats</p>
+            <div className="glow">CHADSPINZ.COM</div>
+            <p className="subtitle">Art is on point﹒Rats﹒More Rats</p>
           </div>
         </div>
         <div
@@ -78,26 +78,15 @@ function App() {
           ))}
         </div>
         <p>
-          Hey Chad! How are you?
+          Come child, to my store.
           <br />
-          Just making your art spin.
+          Click on the link below:
         </p>
         <div
           style={{
             padding: "16px",
           }}
         >
-          <div
-            style={{
-              display: "flex",
-              justifyContent: "center",
-              fontSize: "12px",
-              padding: "8px",
-              width: "100%",
-            }}
-          >
-            All images were created by:
-          </div>
           <a className="App-link-2" href="https://about.me/NDM/">
             Chad Mojito's Globular Meme Sobornost & Senseless Drivel Cult
             Supercluster
